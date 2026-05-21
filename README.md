@@ -1,5 +1,7 @@
 # ByteCoin — Bitcoin Price Tracker
 
+![Demo](Demo.gif)
+
 An iOS app that displays live Bitcoin prices in multiple globally traded 
 currencies. Built in Swift as a practice project for working with REST APIs, 
 asynchronous network requests, and JSON parsing on iOS.
