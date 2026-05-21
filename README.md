@@ -55,6 +55,7 @@ Key concepts demonstrated:
 
 ## Project Structure
 
+```
 ByteCoin/
 ├── Controller/
 │   └── ViewController.swift     #Main view controller, picker delegate, delegate implementation
@@ -68,6 +69,7 @@ ByteCoin/
 ├── SceneDelegate.swift
 ├── Info.plist
 └── ByteCoin.xcodeproj.zip
+```
 
 ## Running the App
 
