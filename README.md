@@ -26,8 +26,8 @@ the main thread.
 
 - **Live price updates** — Fetches current Bitcoin prices on demand
 - **Multi-currency support** — 21 global currencies including USD, EUR, GBP, JPY, BRL, CNY, INR, ZAR
-- **Clean UI** — UIPickerView for currency selection with instant price refresh
-- **MVC architecture** — Clean separation of model, view, and controller logic
+- **UI** — UIPickerView for currency selection with instant price refresh
+- **MVC architecture** — separation of model, view, and controller logic
 
 ## Tech Stack
 
@@ -113,4 +113,4 @@ cd bitcoin-price-tracker
 - Implement price alerts with local notifications
 - Cache the last fetched price for offline viewing
 - Write unit tests for the JSON decoding and API layer (using `XCTest`)
-- Replace the bundled `.xcodeproj.zip` with the unzipped project for cleaner cloning
+- Replace the bundled `.xcodeproj.zip` with the unzipped project for cloning
